@@ -6,7 +6,7 @@
 
 import java.io.IOException;
 
-public class ColorDsiplay {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         new ColorAssistant("Color Assistant");
