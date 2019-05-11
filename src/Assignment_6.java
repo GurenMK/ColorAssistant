@@ -4,8 +4,6 @@
 //displays pixel RGB, sets that color as background
 //works outside the windows borders
 
-package assignment_6;
-
 import java.io.IOException;
 
 public class Assignment_6 {
